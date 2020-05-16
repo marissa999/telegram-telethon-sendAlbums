@@ -1,0 +1,12 @@
+"""                                                   """
+""" COPY TEMPLATE FILE TO 'env.py' AND FILL VARIABLES """
+""" GO TO https://my.telegram.org/auth TO OPTAIN      """
+""" THE NEEDED 'api_id' and 'api_hash'                """
+"""                                                   """
+
+api_id = 12345
+api_hash = '0123456789abcdef0123456789abcdef'
+
+account_file = 'sendAlbum'
+chat_id = 123456789
+path = '/home/user/Pictures/telegramToSend/'
